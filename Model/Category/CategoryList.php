@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rameera\AdminProductGridCategoryFilter\Model\Category;
+namespace MageMatch\CatalogGridCategoryTools\Model\Category;
 
 use Magento\Catalog\Model\ResourceModel\Category\CollectionFactory;
 use Magento\Framework\Data\OptionSourceInterface;

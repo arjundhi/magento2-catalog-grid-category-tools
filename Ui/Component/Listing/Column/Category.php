@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rameera\AdminProductGridCategoryFilter\Ui\Component\Listing\Column;
+namespace MageMatch\CatalogGridCategoryTools\Ui\Component\Listing\Column;
 
 use Magento\Catalog\Api\CategoryRepositoryInterface;
 use Magento\Catalog\Model\ProductFactory;

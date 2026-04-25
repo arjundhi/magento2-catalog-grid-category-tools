@@ -1,3 +1,11 @@
+# Catalog Grid Category Tools for Magento 2
+
+> Free, open-source Magento 2 extension  
+> by **Arjun Dhiman** — 
+> [Adobe Commerce Certified Master](https://magematch.com/developers/arjun-dhiman)  
+> Part of the [MageMatch](https://magematch.com) 
+> developer ecosystem
+
 # Rameera Admin Product Grid Category Filter
 
 `Rameera_AdminProductGridCategoryFilter` adds a category column and category filter dropdown to Magento admin product listing grids.
@@ -108,3 +116,25 @@ php bin/magento cache:flush
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
+
+---
+## Installation
+```bash
+composer require magematch/magento2-catalog-grid-category-tools
+bin/magento module:enable MageMatch_CatalogGridCategoryTools
+bin/magento setup:upgrade
+bin/magento cache:clean
+```
+
+## Compatibility
+- Magento Open Source 2.4.x
+- Adobe Commerce 2.4.x
+- PHP 8.1, 8.2, 8.3
+
+## Support & Custom Development
+Need custom Magento development?  
+Find vetted Adobe Commerce developers at  
+**[magematch.com](https://magematch.com)**
+
+## License
+MIT License — free to use commercially

@@ -5,7 +5,7 @@
  */
 declare(strict_types=1);
 
-namespace Rameera\AdminProductGridCategoryFilter\Ui\DataProvider\Product\Related;
+namespace MageMatch\CatalogGridCategoryTools\Ui\DataProvider\Product\Related;
 
 use Magento\Framework\Api\Filter;
 

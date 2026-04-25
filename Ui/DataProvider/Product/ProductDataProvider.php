@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rameera\AdminProductGridCategoryFilter\Ui\DataProvider\Product;
+namespace MageMatch\CatalogGridCategoryTools\Ui\DataProvider\Product;
 
 use Magento\Catalog\Ui\DataProvider\Product\ProductDataProvider as MagentoProductDataProvider;
 use Magento\Framework\Api\Filter;
